@@ -1,0 +1,32 @@
+{
+	"node": "n8n-nodes-scrapeunblocker-homedepot-search.homeDepotSearchScraper",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Sales",
+		"Data & Storage"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-homedepot-search#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-homedepot-search#readme"
+			}
+		]
+	},
+	"alias": [
+		"home depot",
+		"homedepot",
+		"tools",
+		"hardware",
+		"products",
+		"prices",
+		"scraper",
+		"apify",
+		"scrapeunblocker"
+	]
+}
